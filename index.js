@@ -14,6 +14,6 @@ const is = "is";
 const fullname = `${my} ${name} ${is} Ruslan`;
 console.log(fullname);
 
-const username = "zitraks";
+const username = "ruslan";
 const payment = "1400";
 alert(`Дякуємо, ${username}! До сплати ${payment} гривень.`);
